@@ -120,8 +120,8 @@ img {
   grid-template-columns: 50%;
   grid-column-gap: 2rem;
   width: calc(100% - 2rem);
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: var(--mb-2);
+  margin-right: var(--mb-2);
 }
 .l-header {
   width: 100%;
